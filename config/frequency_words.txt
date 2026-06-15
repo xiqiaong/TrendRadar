@@ -230,6 +230,25 @@
 [AI 相关]
 /(?<![a-zA-Z])ai(?![a-zA-Z])/
 人工智能
+AI
+LLM
+大模型
+Claude
+Anthropic
+OpenAI
+GPT
+Agent
+MCP
+RAG
+GitHub
+开源
+Cursor
+Copilot
+深度学习
+机器学习
+Skill
+harness
+workflow
 
 [芯片]
 芯片
